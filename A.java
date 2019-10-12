@@ -1,1 +1,1 @@
-public void Hello();
+public class A{};

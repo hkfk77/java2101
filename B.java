@@ -1,1 +1,1 @@
-123456
+public class B{};
